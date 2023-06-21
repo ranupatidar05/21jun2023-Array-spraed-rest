@@ -1,0 +1,84 @@
+let x = ["ranu"]
+
+let y = [...x,"patidar"]
+
+console.log(y);
+
+let n1=['happy']
+
+let news=[...n1,'international'];
+let news2=[...news,'day'];
+let news3=[...news2,'prime minister'];
+let news4=[...news3,'narndra modi'];
+let news5=[...news4,'attends'];
+let news6=[...news5,'the'];
+let news7=[...news6,'yoga'];
+let news8=[...news7,'day'];
+let news9=[...news8,'celebration'];
+let news10=[...news9,'at'];
+let news11=[...news10,'un'];
+let news12=[...news11,'headquarters'];
+let news13=[...news12,'today'];
+let news14=[...news13,'the'];
+let news15=[...news14,'congress'];
+let news16=[...news15,'shared'];
+let news17=[...news16,'the'];
+let news18=[...news17,'photo'];
+let news19=[...news18,'of'];
+let news20=[...news19,'pandit'];
+let news21=[...news20,'jawaharlal nehru'];
+let news22=[...news21,'doing'];
+let news23=[...news22,'sirsasana'];
+let news24=[...news23,'and'];
+let news25=[...news24,'and']
+let news26=[...news25,'remember'];
+let news27=[...news26,'him'];
+let news28=[...news27,'for'];
+let news29=[...news28,'being'];
+let news30=[...news29,'instrumental'];
+let news31=[...news30,'in'];
+let news32=[...news31,'popularising'];
+let news33=[...news32,'yoga'];
+let news34=[...news33,'and'];
+let news35=[...news34,'even'];
+let news36=[...news35,'made'];
+let news37=[...news36,'it'];
+let news38=[...news37,'a'];
+let news39=[...news38,'part'];
+let news40=[...news39,'of'];
+let news41=[...news40,'nantional'];
+let news42=[...news41,'policy.'];
+let news43=[...news42,'let'];
+let news44=[...news43,'us'];
+let news45=[...news44,'appreciate'];
+let news46=[...news45,'the'];
+let news47=[...news46,'imortance'];
+let news48=[...news47,'of'];
+let news49=[...news48,'the']
+let news50=[...news49,'ancient'];
+let news51=[...news50,'art'];
+let news52=[...news51,'and'];
+let news53=[...news52,'philosophy'];
+let news54=[...news53,'in'];
+let news55=[...news54,'our'];
+let news56=[...news55,'hysical'];
+let news57=[...news56,'and'];
+let news58=[...news57,'in'];
+let news59=[...news58,'our'];
+let news60=[...news59,'physical'];
+let news61=[...news60,'and'];
+let news62=[...news61,'mental'];
+let news63=[...news62,'wellbeing'];
+let news64=[...news63,'and'];
+let news65=[...news64,'take'];
+let news66=[...news65,'steps'];
+let news67=[...news66,'to'];
+let news68=[...news67,'incorporate'];
+let news69=[...news68,'in'];
+let news70=[...news69,'our'];
+let news71=[...news70,'lives'];
+let news72=[...news71,'the'];
+let news73=[...news72,'congress'];
+let news74=[...news73,'tweeted'];
+
+console.log(news74);
